@@ -13,3 +13,67 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh; 
+  text-align: center; 
+  align-items: center;
+}
+
+.container#search {
+  background: #4286f4; 
+}
+
+.flex {
+  flex: 1;
+}
+
+h1 {
+  color: white; 
+  font-size: 4em;
+}
+
+h2 {
+  color: white;
+}
+
+input#zip {
+  width: 40%; 
+  font-size: 2em; 
+  text-align: center; 
+  border: 1px solid black; 
+  font-weight: 700; 
+  color: #ed5ea3; 
+  font-family: 'Lato';
+}
+
+input#submit {
+  background: #ed5ea3; 
+  border: 1px solid black; 
+  border-radius: 5%; 
+  width: 15%; 
+  font-size: 2em; 
+  font-weight: 400; 
+  font-family: 'Lato'; 
+  width: 150px;
+}
+
+.container#politicians {
+  background: #0048bc;
+}
+
+.card {
+  flex: 1;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,35 @@
+{:uriI"‡file://app/assets/javascripts/templates/home.html?type=text/ng-html&id=8aa98bd46f73b5767eb49a7b857e889a236804363f6c27bc3a1b2300daacf05d:ET:load_pathI"app/assets/javascripts;T:filenameI"/app/assets/javascripts/templates/home.html;T:	nameI"templates/home;T:logical_pathI"templates/home.html;T:content_typeI"text/ng-html;T:sourceI"·<div class="container" id="search">
+  <div class="flex">
+    <h1>Find My Rep!</h1>
+    <h2>enter your zip code</h1>
+    <form validate ng-submit="ctrl.formSubmit(zip)" action="#politicians">
+      <input id="zip" type="text" ng-model="ctrl.zip">
+      <br><br>
+      <input id="submit" type="submit" name="Submit" value="click me!">
+    </form>
+  </div>
+</div>
+
+<div class="container" id="politicians">
+  <div class="card" ng-repeat="p in ctrl.politicians">
+    <p>
+      <p>
+        <h2 style="margin: 0;">{{p.nickname === null ? p.first_name : p.nickname}} {{p.last_name}}</h2>
+        <h3 style="margin: 0;">{{p.chamber === "senate" ? "Senate" : "House of Representatives"}}</h3>
+        {{p.party === "D" ? "Democrat" : p.party === "R" ? "Republican" : "Independent";}}
+      </p>
+      {{p.term_end}}<br>
+      {{p.image_url}}
+      <!-- {{p.phone}} | {{p.oc_email.toLowerCase();}}<br> -->
+      <!-- <a href="https://www.facebook.com/{{p.facebook_id}}">Facebook</a><br>
+      <a href="https://www.twitter.com/{{p.twitter_id}}">Twitter</a><br>
+      <a href="https://www.youtube.com/{{p.youtube_id}}">YouTube</a><br>
+      <a href="{{p.website}}">Website</a><br> -->
+      <br>
+    </p>
+  </div>
+</div>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"8processors:type=text/ng-html&file_type=text/ng-html;TTI"=file-digest://app/assets/javascripts/templates/home.html;TTF:charsetI"
+utf-8;F:digest"%ÅRðUD|ˆkr––´ç$Ã×ýh˜Œ±¬E[b˜ýÝ§:lengthi·:dependencies_digest"%OÀ}‰hŽæc®ÂWŸó+ìšãºó7§#b×¬AYWL„:idI"E8aa98bd46f73b5767eb49a7b857e889a236804363f6c27bc3a1b2300daacf05d;F:
+mtimel+¿•X

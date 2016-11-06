@@ -1,3 +1,31 @@
-<div ng-repeat="politician in ctrl.politicians">
-  {{politician.first_name}}
+<div class="container" id="search">
+  <div class="flex">
+    <h1>Find My Rep!</h1>
+    <h2>enter your zip code</h1>
+    <form validate ng-submit="ctrl.formSubmit(zip)" action="#politicians">
+      <input id="zip" type="text" ng-model="ctrl.zip">
+      <br><br>
+      <input id="submit" type="submit" name="Submit" value="click me!">
+    </form>
+  </div>
+</div>
+
+<div class="container" id="politicians">
+  <div class="card" ng-repeat="p in ctrl.politicians">
+    <p>
+      <p>
+        <img ng-src="{{p.image_url}}" style="height: 200px; border: 5px solid #4286f4; border-radius: 10%;"/>
+        <h2 style="margin: 0;">{{p.nickname === null ? p.first_name : p.nickname}} {{p.last_name}}</h2>
+        <h3 style="margin: 0;">{{p.chamber === "senate" ? "Senate" : "House of Representatives"}}</h3>
+        {{p.party === "D" ? "Democrat" : p.party === "R" ? "Republican" : "Independent";}}
+      </p>
+      {{p.term_end}}<br>
+      <!-- {{p.phone}} | {{p.oc_email.toLowerCase();}}<br> -->
+      <!-- <a href="https://www.facebook.com/{{p.facebook_id}}">Facebook</a><br>
+      <a href="https://www.twitter.com/{{p.twitter_id}}">Twitter</a><br>
+      <a href="https://www.youtube.com/{{p.youtube_id}}">YouTube</a><br>
+      <a href="{{p.website}}">Website</a><br> -->
+      <br>
+    </p>
+  </div>
 </div>
