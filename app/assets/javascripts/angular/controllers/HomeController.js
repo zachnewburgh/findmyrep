@@ -1,4 +1,4 @@
-HomeController = ['API Service', '$http', function(APIService, $http) {
+HomeController = ['APIService', '$http', function(APIService, $http) {
   
   var ctrl = this;
 
