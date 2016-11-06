@@ -14,12 +14,15 @@
   <div class="card" ng-repeat="p in ctrl.politicians">
     <p>
       <p>
-        <img ng-src="{{p.image_url}}" style="height: 200px; border: 5px solid #4286f4; border-radius: 10%;"/>
-        <h2 style="margin: 0;">{{p.nickname === null ? p.first_name : p.nickname}} {{p.last_name}}</h2>
-        <h3 style="margin: 0;">{{p.chamber === "senate" ? "Senate" : "House of Representatives"}}</h3>
+        <img ng-src="{{p.image_url}}"/>
+        <h2>{{p.nickname === null ? p.first_name : p.nickname}} {{p.last_name}}</h2>
+        <h3>{{p.chamber === "senate" ? "Senate" : "House of Representatives"}}</h3>
         {{p.party === "D" ? "Democrat" : p.party === "R" ? "Republican" : "Independent";}}
       </p>
-      {{p.term_end}}<br>
+      <p>
+        <h3>Term ends:</h3>
+        {{p.term_end}}<br>
+      </p>
       <!-- {{p.phone}} | {{p.oc_email.toLowerCase();}}<br> -->
       <!-- <a href="https://www.facebook.com/{{p.facebook_id}}">Facebook</a><br>
       <a href="https://www.twitter.com/{{p.twitter_id}}">Twitter</a><br>

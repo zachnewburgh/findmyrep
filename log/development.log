@@ -4995,3 +4995,51 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 24ms (Views: 22.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:10:51 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 562ms (Views: 556.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:11:05 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 330ms (Views: 327.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:11:23 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 326ms (Views: 324.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:12:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 366ms (Views: 364.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:12:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 382ms (Views: 380.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:13:26 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 41ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+

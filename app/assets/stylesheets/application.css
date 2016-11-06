@@ -73,7 +73,18 @@ input#submit {
   color: white;
 }
 
-a {
+.card img {
+  height: 200px; 
+  border: 5px 
+  solid #4286f4; 
+  border-radius: 10%;
+}
+
+.card h2, .card h3 {
+  margin: 0;
+}
+
+.card a {
   text-decoration: none;
   color: white;
 }
