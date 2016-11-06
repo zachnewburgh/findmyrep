@@ -1,4 +1,4 @@
-function HomeController(APIService, $http) {
+HomeController = ['API Service', '$http', function(APIService, $http) {
   
   var ctrl = this;
 
@@ -37,7 +37,7 @@ function HomeController(APIService, $http) {
     .then(function(response) {
       ctrl.zip = response.data.postal;
     });
-}
+}];
 
 angular
   .module('app')
