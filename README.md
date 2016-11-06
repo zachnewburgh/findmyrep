@@ -1,24 +1,21 @@
-# README
+# Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Rails-AngularJS application enables users to find their elected officials by zip code.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+Fork this repo, change into the project's directory, and type the following into the command line:
 
-* System dependencies
+```
+$ bundle install
 
-* Configuration
+$ rails db:migrate
+```
 
-* Database creation
+## Contributing
 
-* Database initialization
+Bug reports and pull requests are welcome on GitHub at https://github.com/zachnewburgh/Portfolio. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-* How to run the test suite
+## License
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The application is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
