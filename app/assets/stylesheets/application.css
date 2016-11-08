@@ -37,14 +37,16 @@ body {
 h1 {
   color: white; 
   font-size: 4em;
+  margin: 0;
 }
 
 h2 {
   color: white;
 }
 
-input#zip {
-  width: 40%; 
+input#address  {
+  width: 55%; 
+  padding: 0.5%;
   font-size: 2em; 
   text-align: center; 
   border: 1px solid black; 

@@ -5043,3 +5043,1405 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 41ms (Views: 38.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:14:22 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 18ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 11:46:43 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 84ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 11:48:05 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 390ms (Views: 387.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:48:09 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:48:14 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:48:20 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 67ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:48:26 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 46ms (Views: 44.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:48:31 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 52ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:48:35 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click%20me!" for ::1 at 2016-11-06 11:48:56 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 367ms (Views: 364.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 11:49:02 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 40ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 11:49:10 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 303ms (Views: 301.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 11:49:27 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 74ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:49:31 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 45ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:51:12 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 356ms (Views: 354.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 11:51:17 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:51:20 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 47.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 11:51:29 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 38ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:04:41 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 1191ms (Views: 1189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:04:50 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:23:41 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 593ms (Views: 572.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:23:57 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 113ms (Views: 109.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:24:42 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 426ms (Views: 423.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:25:18 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 348ms (Views: 343.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:25:34 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 492ms (Views: 490.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:26:13 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 484ms (Views: 476.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:27:37 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 574ms (Views: 569.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:27:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 437ms (Views: 430.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:28:09 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 364ms (Views: 362.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:28:30 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 370ms (Views: 368.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:28:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 327ms (Views: 325.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:34:40 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 548ms (Views: 541.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:35:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 79ms (Views: 76.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:35:19 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 68ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:35:26 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 53ms (Views: 51.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:39:24 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 49ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:39:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:39:57 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 68ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:40:02 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 53ms (Views: 51.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:40:05 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 59ms (Views: 56.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:40:15 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 56ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:40:25 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 44ms (Views: 42.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:40:28 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 39ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:40:37 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 55ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:41:51 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 38ms (Views: 36.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:41:58 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:42:13 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 27ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:42:23 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:42:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 338ms (Views: 336.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:42:58 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:43:27 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 279ms (Views: 278.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:44:07 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 331ms (Views: 329.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:44:14 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:44:21 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 315ms (Views: 314.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:44:25 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/politicians?Submit=click+me%21" for ::1 at 2016-11-06 18:44:29 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/politicians"):
+  
+actionpack (5.0.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0.1) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0.1) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered collection of /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (18.4ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (15.8ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (142.4ms)
+Started GET "/" for ::1 at 2016-11-06 18:45:49 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:04 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 37ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:12 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 36ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:17 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 36ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:25 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:31 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 34ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:38 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:46:57 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:47:00 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:47:05 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:47:09 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:47:21 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 18.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:49:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 317ms (Views: 315.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:49:54 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 17ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index.html.erb?Submit=click+me%21" for ::1 at 2016-11-06 18:50:01 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/index.html.erb"):
+  
+actionpack (5.0.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0.1) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0.1) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (1.7ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.1ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (99.4ms)
+Started GET "/index.html.erb?Submit=click+me%21" for ::1 at 2016-11-06 18:51:41 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/index.html.erb"):
+  
+actionpack (5.0.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0.1) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0.1) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered collection of /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (1.6ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.5ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (132.0ms)
+Started GET "/" for ::1 at 2016-11-06 18:51:45 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 358ms (Views: 356.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index?Submit=click+me%21" for ::1 at 2016-11-06 18:51:50 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/index"):
+  
+actionpack (5.0.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.0.1) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `block in tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.0.1) lib/active_support/tagged_logging.rb:70:in `tagged'
+railties (5.0.0.1) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.0.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.0.1) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.0.1) lib/rails/engine.rb:522:in `call'
+puma (3.6.0) lib/puma/configuration.rb:225:in `call'
+puma (3.6.0) lib/puma/server.rb:578:in `handle_request'
+puma (3.6.0) lib/puma/server.rb:415:in `process_client'
+puma (3.6.0) lib/puma/server.rb:275:in `block in run'
+puma (3.6.0) lib/puma/thread_pool.rb:116:in `block in spawn_thread'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (1.4ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.5ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (84.5ms)
+Started GET "/" for ::1 at 2016-11-06 18:53:34 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 353ms (Views: 350.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:53:41 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 19.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:54:51 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 292ms (Views: 289.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:55:12 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 26ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:55:17 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:56:00 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-06 18:56:21 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 318ms (Views: 317.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:56:25 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:56:31 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-06 18:58:29 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 331ms (Views: 328.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:15:58 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 898ms (Views: 896.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:17:37 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 312ms (Views: 309.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:21:30 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 128ms (Views: 120.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:24:44 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 363ms (Views: 347.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:25:01 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 66ms (Views: 62.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:25:45 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:26:28 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 68ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:27:16 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 44ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:27:36 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 43ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:28:59 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:33:51 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 508ms (Views: 496.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:40:25 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 546ms (Views: 536.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:40:37 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:41:47 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 331ms (Views: 328.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:42:02 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 322ms (Views: 320.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:42:28 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 320ms (Views: 318.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:42:53 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 312ms (Views: 310.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:45:36 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 82ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:46:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 334ms (Views: 332.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:46:26 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 443ms (Views: 441.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:47:19 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 368ms (Views: 365.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:48:29 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 443ms (Views: 440.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 08:57:24 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 83ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 08:57:31 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 32ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 11:58:52 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 98ms (Views: 90.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 11:59:07 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 35ms (Views: 32.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 13:01:08 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 431ms (Views: 425.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 13:01:12 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 28ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 13:01:23 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 13:02:13 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 94ms (Views: 91.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:41:36 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (7.6ms)
+Completed 500 Internal Server Error in 328ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var key = "<%= ENV['KEY'].html_safe %>"
+    17:     debugger
+    18:   </script>
+    19: 
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265628194980'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (16.7ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (199.5ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.0ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (438.6ms)
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:42:09 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 71ms (Views: 68.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:42:34 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 37ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:42:56 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 38ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var key = "<%= ENV['KEY'].html_safe %>"
+    17:     debugger
+    18:   </script>
+    19: 
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265613173520'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (9.3ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (78.8ms)
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:43:25 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var key = return "<%= ENV['KEY'].html_safe %>"
+    17:     debugger
+    18:   </script>
+    19: 
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265558471900'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.6ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.7ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (72.4ms)
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:43:39 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 34ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:46:35 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 97ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:46:37 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 72ms (Views: 69.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:46:53 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (5.2ms)
+Completed 500 Internal Server Error in 55ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var key =  "<% ENV['KEY'].html_safe%>";
+    17:     debugger
+    18:   </script>
+    19: 
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265635900740'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (14.8ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.6ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (92.9ms)
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:54:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.7ms)
+Completed 500 Internal Server Error in 382ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var key =  "<% ENV['KEY'].html_safe %>";
+    17:     debugger
+    18:   </script>
+    19: 
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265594881480'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.9ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.0ms)
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:55:21 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (9.5ms)
+Completed 500 Internal Server Error in 35ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var SUNLIGHT_KEY =  "<% ENV['SUNLIGHT_KEY'].html_safe %>";
+    17:     debugger
+    18:   </script>
+    19: 
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265636542280'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.8ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.4ms)
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 14:57:44 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= javascript_include_tag 'application' %>
+     7:       <script type="text/javascript">
+     8:     var SECRET_KEY =  "<% ENV['SECRET_KEY'].html_safe %>";
+     9:     debugger
+    10:   </script>
+    11:     <%= stylesheet_link_tag    'application', media: 'all' %>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2248877281608445524_70265632968120'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.9ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.7ms)
+Started GET "/" for ::1 at 2016-11-07 15:27:20 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 48ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `html_safe' for nil:NilClass
+Did you mean?  html_safe?):
+    13:   </body>
+    14: 
+    15:   <script type="text/javascript">
+    16:     var SECRET_KEY =  "<% ENV['SECRET_KEY'].html_safe %>";
+    17:   </script>
+    18: 
+    19: </html>
+  
+app/views/layouts/application.html.erb:16:in `_app_views_layouts_application_html_erb__2248877281608445524_70265623248000'
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.5ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendering /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/zachnewburgh/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (68.0ms)
+Started GET "/" for ::1 at 2016-11-07 15:27:37 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-07 15:27:40 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 22ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-07 15:27:42 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 12:43:02 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 1037ms (Views: 1034.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-08 12:43:07 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 24ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 12:58:02 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 327ms (Views: 321.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 12:59:55 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:02:06 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 42ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:02:22 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:06:56 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 122ms (Views: 113.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:07:25 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:07:36 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 28.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:07:42 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:09:50 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 52ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:11:03 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 58ms (Views: 55.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:11:22 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-08 13:11:58 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 302ms (Views: 300.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-08 13:12:05 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 28ms (Views: 25.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-08 13:14:02 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 495ms (Views: 490.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-08 13:14:31 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 40ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-08 13:15:22 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 750ms (Views: 747.2ms | ActiveRecord: 0.0ms)
+
+

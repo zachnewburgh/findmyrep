@@ -1,12 +1,13 @@
 APIService = ['$http', function($http) {
 
-  this.getFederal = function(zip) {
-    return $http.get('https://congress.api.sunlightfoundation.com/legislators/locate?zip=' + zip + '&apikey=b499f90c9a1643f4a6fc2f6b9f21c25b');
+  this.getFederal = function(lat, lng) {
+    return $http.get('https://congress.api.sunlightfoundation.com/legislators/locate?latitude=' + lat + '&longitude=' + lng + '&apikey=' + sunlight_key);
   };
 
-  this.getZip = function() {
-    return $http.get("https://ipinfo.io");
-  }
+  this.getCoordinates = function(address) {
+    return $http.get("https://maps.googleapis.com/maps/api/geocode/json?address="+ address + "&key=" + google_key, {headers: {Authorization: undefined}})
+  };
+
 }];
 
 angular

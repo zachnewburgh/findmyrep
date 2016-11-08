@@ -10,5 +10,17 @@
 
   <body ng-app="app">
     <%= yield %>
+
+    <%= content_tag "div", id: "sunlight_key", data: { key: ENV['SUNLIGHT_KEY'] } do %>
+    <% end %>
+
+    <%= content_tag "div", id: "google_key", data: { key: ENV['GOOGLE_KEY'] } do %>
+    <% end %>
   </body>
+
+  <script type="text/javascript">
+    var sunlight_key = document.getElementById("sunlight_key").dataset.key;
+    var google_key = document.getElementById("google_key").dataset.key;
+  </script>
+
 </html>

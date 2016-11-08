@@ -1,0 +1,46 @@
+{:uriI"‡file://app/assets/javascripts/templates/home.html?type=text/ng-html&id=efda3a2d9c101991bd42f39beb7d5169a1980339481b570beaf40b306dd4ed88:ET:load_pathI"app/assets/javascripts;T:filenameI"/app/assets/javascripts/templates/home.html;T:	nameI"templates/home;T:logical_pathI"templates/home.html;T:content_typeI"text/ng-html;T:sourceI"ø<div class="container" id="search">
+  <div class="flex">
+    <h1>Find My Rep!</h1>
+<!--     <h2>enter your zip code</h1>
+    <form validate ng-submit="ctrl.formSubmit(zip)" action="#politicians">
+      <input id="zip" type="text" ng-model="ctrl.zip">
+      <br><br>
+      <input id="submit" type="submit" name="Submit" value="click me!">
+    </form> -->
+
+    <h2>enter your full address:</h1>
+    <form validate ng-submit="ctrl.formSubmit(address)" action="#politicians">
+      <input id="address" type="text" ng-model="ctrl.address">
+      <br><br>
+      <input id="submit" type="submit" name="Submit" value="click me!">
+    </form>
+
+  </div>
+</div>
+
+<div class="container" id="politicians">
+  <div class="card" ng-repeat="p in ctrl.politicians">
+    <p>
+      <p>
+        <img ng-src="{{p.image_url}}"/>
+        <h2>{{p.nickname === null ? p.first_name : p.nickname}} {{p.last_name}}</h2>
+        <h3>{{p.chamber === "senate" ? "Senate" : "House of Representatives"}}</h3>
+        {{p.party === "D" ? "Democrat" : p.party === "R" ? "Republican" : "Independent";}}
+      </p>
+      <p>
+        <h3>Term ends:</h3>
+        {{p.term_end}}<br>
+      </p>
+      <!-- {{p.phone}} | {{p.oc_email.toLowerCase();}}<br> -->
+      <!-- <a href="https://www.facebook.com/{{p.facebook_id}}">Facebook</a><br>
+      <a href="https://www.twitter.com/{{p.twitter_id}}">Twitter</a><br>
+      <a href="https://www.youtube.com/{{p.youtube_id}}">YouTube</a><br>
+      <a href="{{p.website}}">Website</a><br> -->
+      <br>
+    </p>
+  </div>
+</div>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"8processors:type=text/ng-html&file_type=text/ng-html;TTI"=file-digest://app/assets/javascripts/templates/home.html;TTF:charsetI"
+utf-8;F:digest"%.ü$”U„2¼×:›Åcƒ¥Ó½ö£Dg1©PöØ:lengthiø:dependencies_digest"%Îİr¯öœƒI®ïO»`±OÃTÑçÛfEpO—:idI"Eefda3a2d9c101991bd42f39beb7d5169a1980339481b570beaf40b306dd4ed88;F:
+mtimel+.ÃX
