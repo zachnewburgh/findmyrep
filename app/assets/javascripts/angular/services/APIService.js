@@ -1,7 +1,7 @@
 APIService = ['$http', function($http) {
 
   this.getFederal = function(lat, lng) {
-    return $http.get('https://congress.api.sunlightfoundation.com/legislators/locate?latitude=' + lat + '&longitude=' + lng + '&apikey=' + sunlight_key);
+    return $http.get('https://congress.api.sunlightfoundation.com/legislators/locate?origin=*&latitude=' + lat + '&longitude=' + lng + '&apikey=' + sunlight_key);
   };
 
   this.getCoordinates = function(address) {
