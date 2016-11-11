@@ -6445,3 +6445,10 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 750ms (Views: 747.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2016-11-10 21:26:33 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 1259ms (Views: 1255.5ms | ActiveRecord: 0.0ms)
+
+
