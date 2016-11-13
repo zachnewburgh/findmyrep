@@ -6452,3 +6452,58 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 1259ms (Views: 1255.5ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2016-11-13 15:29:34 -0500
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 1236ms (Views: 1233.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-13 15:29:39 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-13 15:30:45 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 996ms (Views: 994.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-13 15:32:51 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 89ms (Views: 82.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-13 15:33:09 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 503ms (Views: 500.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-13 15:33:21 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 217ms (Views: 213.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?Submit=click+me%21" for ::1 at 2016-11-13 15:33:53 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"Submit"=>"click me!"}
+  Rendering application/index.html.erb within layouts/application
+  Rendered application/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 329ms (Views: 327.1ms | ActiveRecord: 0.0ms)
+
+

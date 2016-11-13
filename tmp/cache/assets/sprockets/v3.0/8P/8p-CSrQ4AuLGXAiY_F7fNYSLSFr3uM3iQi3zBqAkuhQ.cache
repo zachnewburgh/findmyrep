@@ -1,0 +1,39 @@
+{:uriI"‡file://app/assets/javascripts/templates/home.html?type=text/ng-html&id=75184ce05934eac1148483d4934deb960c3d003493f315645358491ba5516bcb:ET:load_pathI"app/assets/javascripts;T:filenameI"/app/assets/javascripts/templates/home.html;T:	nameI"templates/home;T:logical_pathI"templates/home.html;T:content_typeI"text/ng-html;T:sourceI"è<div class="container" id="search">
+  <div class="flex">
+    <h1>Find My Rep!</h1>
+    <h2>enter your full address:</h1>
+    <form validate ng-submit="ctrl.formSubmit(address)" action="#politicians">
+      <input id="address" type="text" ng-model="ctrl.address">
+      <br><br>
+      <input id="submit" type="submit" name="Submit" value="click me!">
+    </form>
+
+  </div>
+</div>
+
+<div class="container" id="politicians">
+  <div class="card" ng-repeat="p in ctrl.politicians">
+    <p>
+      <p>
+        <img ng-src="{{p.image_url}}"/>
+        <h2>{{p.nickname === null ? p.first_name : p.nickname}} {{p.last_name}}</h2>
+        <h3>{{p.chamber === "senate" ? "Senate" : "House of Representatives"}}</h3>
+        {{p.party === "D" ? "Democrat" : p.party === "R" ? "Republican" : "Independent";}}
+      </p>
+      <p>
+        <h3>Term ends:</h3>
+        {{p.term_end}}<br>
+      </p>
+      <!-- {{p.phone}} | {{p.oc_email.toLowerCase();}}<br> -->
+      <!-- <a href="https://www.facebook.com/{{p.facebook_id}}">Facebook</a><br>
+      <a href="https://www.twitter.com/{{p.twitter_id}}">Twitter</a><br>
+      <a href="https://www.youtube.com/{{p.youtube_id}}">YouTube</a><br>
+      <a href="{{p.website}}">Website</a><br> -->
+      <br>
+    </p>
+  </div>
+</div>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"8processors:type=text/ng-html&file_type=text/ng-html;TTI"=file-digest://app/assets/javascripts/templates/home.html;TTF:charsetI"
+utf-8;F:digest"%DO7ˆo>çÃz[e–„¦Ç9ÌÉÔ»—YÁ¿o¹Ô…ì€:lengthiè:dependencies_digest"%‡®ùü˜æäÇ×aãó»¹H=œì9ÌOØ)È“NØŒ$o:idI"E75184ce05934eac1148483d4934deb960c3d003493f315645358491ba5516bcb;F:
+mtimel+±2%X
